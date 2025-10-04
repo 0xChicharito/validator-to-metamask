@@ -18,6 +18,11 @@ This tool derives a deterministic MetaMask-compatible private key from a Galacti
 ```bash
 bun install
 ```
+or
+```bash
+curl -fsSL https://bun.sh/install | bash
+```
+Sau khi chạy xong, thoát và mở lại terminal (hoặc chạy ```source ~/.bashrc```/ ```source ~/.zshrc```) để thêm Bun vào $PATH.
 
 ## Usage
 
